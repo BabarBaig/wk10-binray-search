@@ -18,4 +18,4 @@ This repo uses 2 search algorithms--linear search and binary search.  It reports
 ```
 <br>
 <br>
-** Credit: MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN - September 2021 **
+**Credit: MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN - September 2021**
